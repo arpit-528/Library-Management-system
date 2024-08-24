@@ -1,2 +1,2 @@
 # Library-Management-system
-This is the basic library management which will allow you to pre-rent books sitting at home.
+This is the basic library management system (made with C language) which can magane borrowings of books from college library. 
